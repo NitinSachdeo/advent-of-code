@@ -31,7 +31,6 @@ while right > 0:
     left += 1
   right -= 1
 
-time.sleep(0.1)
 i = 0
 for block, size in blocks:
   while size > 0:
